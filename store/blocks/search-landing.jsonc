@@ -1,0 +1,21 @@
+{
+  "store.custom#landing": {
+    "blocks": ["image#landingbanner", "search-result-layout.customQuery"]
+  },
+  "image#landingbanner": {
+    "props": {
+      "src": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/05/terceira-temporada-da-animacao-para-adultos-rick-and-morty-e-disponibilizada-pela-netflix-1544032759199_v2_1920x1080.jpg"
+    }
+  },
+  "search-result-layout.customQuery": {
+    "props": {
+      "querySchema": {
+        "orderByField": "OrderByReleaseDateDESC",
+        "hideUnavailableItems": true,
+        "maxItemsPerPage": 8,
+        "queryField": "Blue Top Retro Camera",
+        "mapField": ""
+      }
+    }
+  }
+}
