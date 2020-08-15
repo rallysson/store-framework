@@ -16,7 +16,7 @@
       "preventVerticalStretch": true,
       "verticalAlign": "middle"
     },
-    "children": ["product-name", "product-price", "buy-button#product"]
+    "children": ["product-name", "product-price", "buy-button"]
   },
   "product-name": {
     "props": {
@@ -30,7 +30,7 @@
       "showListPrice": true
     }
   },
-  "buy-button#product": {
+  "buy-button": {
     "props": {
       "isOneClickBuy": true,
       "showTooltipOnSkuNotSelected": false
