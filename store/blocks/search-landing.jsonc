@@ -4,6 +4,7 @@
   },
   "image": {
     "props": {
+      "minWidth": "100%",
       "src": "https://observatoriodocinema.uol.com.br/wp-content/uploads/2020/05/terceira-temporada-da-animacao-para-adultos-rick-and-morty-e-disponibilizada-pela-netflix-1544032759199_v2_1920x1080.jpg"
     }
   },
